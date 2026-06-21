@@ -53,8 +53,7 @@ project-root/
 ```
 <img width="1763" height="1755" alt="Screenshot_20-6-2026_162527_us5 datadoghq com" src="https://github.com/user-attachments/assets/70752f72-d723-42f7-84ce-c03f4aa7654e" />
 
-<img width="1918" height="1012" alt="Screenshot 2026-06-20 171446" src="https://github.com/user-attachments/assets/0e0a370f-2f76-49bf-ba71-32104b4c3cfe" />
-<img width="1912" height="1008" alt="Screenshot 2026-06-20 162212" src="https://github.com/user-attachments/assets/623e0c65-7513-4422-89d4-a03da312f38f" />
+
 <img width="1917" height="1012" alt="Screenshot 2026-06-20 161730" src="https://github.com/user-attachments/assets/8e9c8260-dcba-4590-80c9-23bba11a27f6" />
 <img width="1917" height="1012" alt="Screenshot 2026-06-20 161637" src="https://github.com/user-attachments/assets/59114f0c-ea67-481d-ad09-5cdeeeb12a29" />
 
